@@ -16,4 +16,17 @@ This project is a comprehensive Sales Dashboard built using Microsoft Excel. The
 
 -Dashboard Interaction <a href="https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/dashbordScreenshot%20(1).png” >View Dashboard</a>
 
+## Process 
 
+-Collected sales data for different cities and executives.
+
+-Segregated data into city-wise dashboards.
+
+-Used Microsoft Excel to create Pivot Tables and visual charts.
+
+-Developed visualizations: Bar charts, Pie charts, Line charts.
+
+-Measured performance metrics like Total Sales, Target Hit %, and Deviation from Target.
+
+##Dashboard
+https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/dashbordScreenshot%20(1).png
