@@ -2,7 +2,7 @@
 ## Project Objective
 This project is a comprehensive Sales Dashboard built using Microsoft Excel. The dashboard enables stakeholders to visually track sales metrics, analyze individual performance, and compare achievements against sales targets.
 ## Dataset Used
--<a href="https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/Sales%20Data.xlsm”>Dataset </a>
+-<a href="https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/Sales%20Data.xlsm”>Dataset</a>
 ## Project Questions(KPIs)
 -How are sales executives performing across different cities?
 
@@ -14,7 +14,7 @@ This project is a comprehensive Sales Dashboard built using Microsoft Excel. The
 
 -How can visual tools help in identifying performance trends?
 
--Dashboard Interaction <a href="https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/dashbordScreenshot%20(1).png” >View Dashboard</a>
+-Dashboard Interaction<a href="https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/dashbordScreenshot%20(1).png”>View Dashboard</a>
 
 ## Process 
 
@@ -28,7 +28,8 @@ This project is a comprehensive Sales Dashboard built using Microsoft Excel. The
 
 -Measured performance metrics like Total Sales, Target Hit %, and Deviation from Target.
 
-##Dashboard
+## Dashboard
+
 <img width="1228" height="566" alt="dashbordScreenshot (1)" src="https://github.com/user-attachments/assets/09280c25-61be-45c3-8456-b1a7f43b6dc0" />
 
 
