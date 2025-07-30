@@ -29,4 +29,25 @@ This project is a comprehensive Sales Dashboard built using Microsoft Excel. The
 -Measured performance metrics like Total Sales, Target Hit %, and Deviation from Target.
 
 ##Dashboard
-https://github.com/nehaborge/Data_Analysis_Dashboard/blob/main/dashbordScreenshot%20(1).png
+<img width="1228" height="566" alt="dashbordScreenshot (1)" src="https://github.com/user-attachments/assets/09280c25-61be-45c3-8456-b1a7f43b6dc0" />
+
+
+## Project Insights
+
+-Top Performer: Janardan Mishra with 355 sales.
+
+-Lowest Performer: Shivji Prasad with 301 sales.
+
+-Highest Target Achievement: Janardan Mishra (71%).
+
+-Most Away from Target: Raji Abraham (62.2%).
+
+-City Insights: Patna team showed consistent performance.
+
+-Visualization Value: Charts clearly revealed trends and gaps.
+
+
+## Final Conclusion
+
+The Sales Dashboard project delivers a clear and insightful overview of performance across various regions. By using Excel tools like Pivot Tables and charts, we created a dynamic and visually engaging dashboard. This helped in identifying key performers, areas needing improvement, and enabled data-driven decision-making for sales strategies.
+
