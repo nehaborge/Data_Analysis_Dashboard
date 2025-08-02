@@ -50,5 +50,9 @@ This project is a comprehensive Sales Dashboard built using Microsoft Excel. The
 
 ## Final Conclusion
 
-The Sales Dashboard project delivers a clear and insightful overview of performance across various regions. By using Excel tools like Pivot Tables and charts, we created a dynamic and visually engaging dashboard. This helped in identifying key performers, areas needing improvement, and enabled data-driven decision-making for sales strategies.
+The Sales Dashboard project delivers a clear and insightful overview of performance across various regions.
+
+By using Excel tools like Pivot Tables and charts, we created a dynamic and visually engaging dashboard. 
+
+This helped in identifying key performers, areas needing improvement, and enabled data-driven decision-making for sales strategies.
 
